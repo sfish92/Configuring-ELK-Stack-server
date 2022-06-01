@@ -10,11 +10,17 @@ The files in this repository were used to configure the network depicted below.
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML and Config files may be used to install only certain pieces of it, such as filebeat.
 
 [ansible-hosts.yml.txt](https://github.com/sfish92/Cyber-Bootcamp-Project-1/files/8816260/ansible-hosts.yml.txt)
+
 [docker-playbook.yml.txt](https://github.com/sfish92/Cyber-Bootcamp-Project-1/files/8816261/docker-playbook.yml.txt)
+
 [filebeat-config.yml.txt](https://github.com/sfish92/Cyber-Bootcamp-Project-1/files/8816262/filebeat-config.yml.txt)
+
 [filebeat-playbook.yml.txt](https://github.com/sfish92/Cyber-Bootcamp-Project-1/files/8816263/filebeat-playbook.yml.txt)
+
 [install-elk.yml.txt](https://github.com/sfish92/Cyber-Bootcamp-Project-1/files/8816264/install-elk.yml.txt)
+
 [metricbeat-config.yml.txt](https://github.com/sfish92/Cyber-Bootcamp-Project-1/files/8816265/metricbeat-config.yml.txt)
+
 [metricbeat-playbook.yml.txt](https://github.com/sfish92/Cyber-Bootcamp-Project-1/files/8816266/metricbeat-playbook.yml.txt)
 
 This document contains the following details:
