@@ -40,7 +40,7 @@ Load balancing ensures that the application will be highly functional, in additi
   - Without a load balancer your network is more susceptible to be attacked via a DoS (Denial of     Service). The purpose of a Load Balancer is to protect against DDoS attacks and it does so       by analyzing the incoming traffic and determines which server to send the traffic. This         prevents a server from getting bombarded with traffic since the Load Balancer is able to         evenly distribute traffic among the servers that are in the Load Balancing Pool. Load           Balancers are usually equipped with Health Probes which periodically examines and determines     if a machine is functioning properly before puching traffic through. If there is an issue       with a server the Load Balancer will redirect the traffic.
 
 - What is the advantage of a jump box?
-  - A Jump Box is a great tool that allows you to have better control over who can gain access       to a Virtual Network and everything inside. In order to access the other VM's on the network     one will need the private IP's of those machines, which limits the outsiders from accessing     information from you network. 
+  - A Jump Box is a great tool that allows you to have better control over who can gain access       to a Virtual Network and everything inside. In order to access the other VM's on the network     one will need the private IP's of those machines, which limits the outsiders from accessing     information from your network. 
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for the changes to the logs and system traffic.
 - What does Filebeat watch for?
